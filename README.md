@@ -12,8 +12,6 @@ Expected output:
 ```
 
 Actual output:
-
-Expected output:
 ```
 {content of endif-at-the-end.cs} <---- Incomplete, missing #endif
 ========================================
